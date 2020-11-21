@@ -1,0 +1,79 @@
+html {
+  background-color: white;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+body {
+  width: 1200px;
+  margin: 20px auto 20px auto;
+}
+
+div#page {
+  background-color: #50738f;
+  padding: 20px;
+}
+
+section#header_block {
+  margin-top: -20px;
+  position: relative;
+}
+
+section#header_block > img {
+  width: 35%;
+  margin-top: -172px;
+  margin-left: 653px;
+  position: relative;
+  padding: 10px;
+}
+
+section#header_block > h1 {
+  width: 597px;
+  padding: 10px;
+  position: relative;
+  font-family: arial;
+  font-size: 4em;
+}
+
+section#header_block > h2 {
+  position: relative;
+  width: 596px;
+  margin-top: -54px;
+  padding: 10px;
+  font-family: arial;
+  font-size: 1.4em;
+}
+
+section#header_block > nav {
+  background-color: white;
+  position: absolute;
+  width: 550px;
+  margin-top: -100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: sans-serif;
+  font-size: 1.1em;
+  padding-left: 35px;
+  padding-right: 35px;
+  text-align: center;
+}
+
+section#header_block > nav > a:link, a:visited {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
+
+section#header_block > nav > a:hover, a:active {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+section#classwork {
+
+}
