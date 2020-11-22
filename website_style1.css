@@ -1,0 +1,295 @@
+html {
+  background-color: white;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+body {
+  width: 1200px;
+  margin: 20px auto 20px auto;
+}
+
+div#page {
+  background-color: #50738f;
+  padding: 20px;
+}
+
+section#header_block {
+  margin-top: -20px;
+  position: relative;
+}
+
+section#header_block > img {
+  width: 35%;
+  margin-top: -172px;
+  margin-left: 653px;
+  position: relative;
+  padding: 10px;
+}
+
+section#header_block > h1 {
+  width: 597px;
+  padding: 10px;
+  position: relative;
+  font-family: arial;
+  font-size: 4em;
+}
+
+section#header_block > h2 {
+  position: relative;
+  width: 596px;
+  margin-top: -54px;
+  padding: 10px;
+  font-family: arial;
+  font-size: 1.4em;
+}
+
+section#header_block > nav {
+  background-color: white;
+  position: absolute;
+  width: 550px;
+  margin-top: -100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: serif;
+  font-size: 1.1em;
+  padding-left: 35px;
+  padding-right: 35px;
+  text-align: center;
+}
+
+section#header_block > nav > a:link, a:visited {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
+
+section#header_block > nav > a:hover, a:active {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+section.resume section#education > h3 {
+  font-family: arial;
+  font-size: 1.4em;
+  color: black;
+}
+
+section.resume section#education > h4 {
+  font-family: arial;
+  font-size: 1.05em;
+  color: black;
+}
+
+section.resume section#education div#grad_date > p {
+  font-family: serif;
+  font-size: 1em;
+  padding-right: 30px;
+  position: absolute;
+  margin-left: 880px;
+  margin-top: 0px;
+}
+
+section.resume section#education > p {
+  font-family: serif;
+  font-size: 1em;
+}
+
+section.resume section#education > ul > li > span {
+  font-weight: bold;
+  font-family: serif;
+  font-size: 1em;
+}
+
+section.resume section#skills > h3 {
+  font-family: arial;
+  font-size: 1.4em;
+  color: black;
+}
+
+section.resume section#skills > ul > li > span {
+  font-family: serif;
+  font-size: 1.em;
+  color: black;
+  font-weight: bold;
+}
+
+section.resume section#experience > h3 {
+  font-family: arial;
+  font-size: 1.4em;
+  color: black;
+}
+
+section.resume section#experience div.block_1 > h4 {
+  font-family: arial;
+  font-size: 1.05em;
+  color: black;
+}
+
+section.resume section#experience div.block_1 div#date_1 > p {
+  font-family: serif;
+  font-size: 1em;
+  padding-right: 30px;
+  position: absolute;
+  margin-left: 880px;
+  margin-top: 0px;
+}
+
+section.resume section#experience div.block_1 > h5 {
+  font-family: serif;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+section.resume section#experience div.block_1 > ul {
+  font-family: serif;
+  font-size: 1em;
+}
+
+section.resume section#experience div.block_2 > h4 {
+  font-family: arial;
+  font-size: 1.05em;
+  color: black;
+}
+
+section.resume section#experience div.block_2 div#date_2 > p {
+  font-family: serif;
+  font-size: 1em;
+  padding-right: 30px;
+  position: absolute;
+  margin-left: 880px;
+  margin-top: 0px;
+}
+
+section.resume section#experience div.block_2 > h5 {
+  font-family: serif;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+section.resume section#experience div.block_2 > ul {
+  font-family: serif;
+  font-size: 1em;
+}
+
+section.resume section#experience div.block_3 > h4 {
+  font-family: arial;
+  font-size: 1.05em;
+  color: black;
+}
+
+section.resume section#experience div.block_3 div#date_3 > p {
+  font-family: serif;
+  font-size: 1em;
+  padding-right: 30px;
+  position: absolute;
+  margin-left: 880px;
+  margin-top: 0px;
+}
+
+section.resume section#experience div.block_3 > h5 {
+  font-family: serif;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+section.resume section#experience div.block_3 > ul {
+  font-family: serif;
+  font-size: 1em;
+}
+
+
+section.resume section#projects > h3 {
+  font-family: arial;
+  font-size: 1.4em;
+  color: black;
+}
+
+section.resume section#projects > h4 {
+  font-family: arial;
+  font-size: 1.05em;
+  color: black;
+}
+
+section.resume section#projects > ul {
+  font-family: serif;
+  font-size: 1em;
+}
+
+section.resume section#activities > h3 {
+  font-family: arial;
+  font-size: 1.4em;
+  color: black;
+}
+
+section.resume section#activities > ul {
+  font-family: serif;
+  font-size: 1em;
+}
+
+section.resume section#activities > ul > li > span {
+  font-style: italic;
+  font-family: serif;
+  font-size: 1em;
+}
+
+section#footer {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+section#footer div.contact_top {
+  position: relative;
+  margin-top: -19px;
+  text-align: center;
+  font-family: serif;
+  font-size: 1.05em;
+  color: black;
+}
+
+section#footer div.contact_bottom {
+  position: relative;
+  margin-top: -10px;
+  text-align: center;
+  font-family: serif;
+  font-size: 1.05em;
+  color: black;
+}
+
+section#footer div.contact_top > p > a:link, a:visited {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+section#footer div.contact_top > p > a:hover, a:active {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+section#footer div.contact_bottom > p > a:link, a:visited {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+section#footer div.contact_bottom > p > a:hover, a:active {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
