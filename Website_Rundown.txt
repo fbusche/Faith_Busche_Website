@@ -1,0 +1,17 @@
+The following is a link to my professional website:
+
+https://fbusche.github.io/Faith_Busche_Website/
+
+The first page that you are immediately brought to contains my resume. At the top of both pages, you will find my header along with the navigation bar and a professional headshot of myself. 
+
+Currently you are on the "Resume" page, but can click on two additional links. The "Projects and Classwork" link will bring you to that page, which is also linked here:
+
+file:///C:/Users/busch/Downloads/COM%20421/Professional_Website_Busche/busche_website_draft_page2.html
+
+The "Projects and Classwork" page contains first projects I have, or in this case will complete, in organizations that were mentioned in my resume. Currently, the only club that I am a member of where I will complete a project is Hyperloop and I do not yet have any work to be linked. By the end of the Spring semester, I will have completed a few programs and will then be able to update this by linking the code.
+
+However, below that is classwork. Under the classwork section, a user is able to download the code I wrote for each class' final project as well as read a short description on that project.
+
+The final link in the navigation bar is actually a button to be able to download a PDF version of the resume that was previously shown on the "Resume" page. 
+
+Additionally, each page contains a footer at the bottom where a user can find contact information about me such as my phone number, address, and email. In this footer my LinkedIn and GitHub are also linked for user's to go check out.
